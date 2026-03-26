@@ -24,6 +24,12 @@
 *   **登录间隔**：在界面中设置登录重试的时间间隔。*不建议修改*
 *   **配置信息**：个人的账户配置信息会以config文件自动保存在本地
 
+## 程序截图
+
+以下是应用运行时的界面截图。
+
+![应用登录界面截图]([https://github.com/ShuYan24/HuiHuTong_AutoLogin/blob/main/运行界面图.png?raw=true "应用登录界面"](https://raw.githubusercontent.com/ShuYan24/HuiHuTong_AutoLogin/main/%E8%BF%90%E8%A1%8C%E7%95%8C%E9%9D%A2%E5%9B%BE.png))
+
 ## 文件说明
 
 *   `auto_login_app.py`: 程序的主要源代码。
